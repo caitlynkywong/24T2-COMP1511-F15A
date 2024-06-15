@@ -29,11 +29,11 @@ int main(void) {
 
     // char b;
     // scanf(" %c", &b);
-    // printf("The first letter inputted was: %c\n", b);
+    // printf("The second letter inputted was: %c\n", b);
 
     // char c;
     // scanf(" %c", &c);
-    // printf("The first letter inputted was: %c\n", c);
+    // printf("The third letter inputted was: %c\n", c);
 
     return 0;
 }
